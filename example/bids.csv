@@ -1,0 +1,8 @@
+﻿generator,kind,capacity,price
+NuclearOne,nuclear,300,12.50
+HydroNorth,hydro,120,18.00
+CoalAlpha,coal,200,31.75
+GasCombo,gas,150,45.20
+GasFlex,gas,90,58.40
+PeakerJet,peaker,60,120.00
+PeakerDiesel,peaker,40,185.50
